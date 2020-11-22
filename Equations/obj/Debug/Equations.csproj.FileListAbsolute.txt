@@ -1,0 +1,7 @@
+C:\Users\Даниил\source\repos\Equations\Equations\bin\Debug\Equations.exe.config
+C:\Users\Даниил\source\repos\Equations\Equations\bin\Debug\Equations.exe
+C:\Users\Даниил\source\repos\Equations\Equations\bin\Debug\Equations.pdb
+C:\Users\Даниил\source\repos\Equations\Equations\obj\Debug\Equations.csprojAssemblyReference.cache
+C:\Users\Даниил\source\repos\Equations\Equations\obj\Debug\Equations.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\source\repos\Equations\Equations\obj\Debug\Equations.exe
+C:\Users\Даниил\source\repos\Equations\Equations\obj\Debug\Equations.pdb
